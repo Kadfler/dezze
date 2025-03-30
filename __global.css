@@ -1,0 +1,20 @@
+.html {
+    overflow-x: hidden;
+}
+
+.body {
+    background-color: var(--white);
+    color: var(--black);
+    font-family: var(--dmsans);
+    font-weight: 500;
+}
+
+.container {
+    max-width: 1441px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.indent {
+    margin-bottom: 120px;
+}
